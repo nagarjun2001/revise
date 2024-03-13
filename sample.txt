@@ -1,1 +1,2 @@
 First line from master
+new line updated
